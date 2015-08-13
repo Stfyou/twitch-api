@@ -1,0 +1,36 @@
+body {
+	background-color: #c4e3ef;
+}
+.container {
+	width: 25em;
+}
+
+.btn-group {
+	margin-top: 10px;
+}
+.btn {
+	height: 4em;
+	border-radius: 0;
+	background-color: #82bfd8;
+	border-color: #7ab4cc;
+	color: #efeaea;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.btn:hover{
+	background-color: #61aac6;
+	border-color: #61aac6;
+	color: efeaea;
+}
+.btn:focus{
+	background-color: #61aac6;
+	border-color: #61aac6;
+	color: efeaea;
+}
+.search-wrapper {
+ background-color: white;
+ padding: 15px;
+}
+#search {
+	background-color: white;
+}
