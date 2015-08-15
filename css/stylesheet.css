@@ -34,3 +34,39 @@ body {
 #search {
 	background-color: white;
 }
+#people {
+	background-color: white;
+}
+img {
+	height: 65px;
+	width: 65px;
+	border-radius: 50%;
+	margin: 0 15px 5px 10px;
+}
+.stream{
+	text-align: left;
+}
+a {
+	text-decoration: none;
+	color: #61AAC6;
+	font-weight: bold;
+	font-size: 18px;
+	margin: 0;
+}
+.status {
+	float: right;
+	margin: 23px;
+	font-size: 20px;
+}
+.hidden{
+	display: none;
+}
+.filtered {
+	display: none;
+}
+p {
+	margin: 0;
+	font-weight: bold;
+	display:inline-block;
+	color: #61AAC6;
+}
